@@ -30,3 +30,11 @@ window, have buttons that do different things!
 - merge button (god help us)
 - fork button (probably just triggers the clone script and then the branch script, not in that order)
 - diff button (again god help us)
+
+
+Interface
+===========
+What should it look like?
+
+- Buttons in a taskbar? (top/bottom/side?)
+- something that shows you what you're working on? (Taking a hint from the OSX GUI, probably all the files you have in your repository right now, and the one you're working on right now is highlighted)
