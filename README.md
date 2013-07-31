@@ -28,3 +28,5 @@ window, have buttons that do different things!
 - branch button (prompt for branch-name)
 - clone button (somehow make this easy? just prompt for link)
 - merge button (god help us)
+- fork button (probably just triggers the clone script and then the branch script, not in that order)
+- diff button (again god help us)
